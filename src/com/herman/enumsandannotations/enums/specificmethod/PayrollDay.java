@@ -1,4 +1,4 @@
-package com.herman.enumsandannotations.enums;
+package com.herman.enumsandannotations.enums.specificmethod;
 
 public enum PayrollDay {
 

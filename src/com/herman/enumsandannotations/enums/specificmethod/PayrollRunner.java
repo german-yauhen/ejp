@@ -1,7 +1,5 @@
 package com.herman.enumsandannotations.enums.specificmethod;
 
-import com.herman.enumsandannotations.enums.PayrollDay;
-
 public class PayrollRunner {
     public static void main(String[] args) {
         int paymentPerMinute = 15;
